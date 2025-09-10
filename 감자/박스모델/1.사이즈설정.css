@@ -1,0 +1,11 @@
+.p-blx {
+    width: 50vw;
+    height: 50vh;
+    background-color: antiquewhite;
+}
+
+.c-box{
+    font-size: 2rem; 
+}
+
+/* 상대적으로 두배 커짐 */
